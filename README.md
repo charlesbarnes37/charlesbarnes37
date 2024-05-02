@@ -16,7 +16,6 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>AppLocker Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Password Spraying</b>
 - <b>Zeek/RITA</b>
 - <b>DeepBlueCLI</b>
