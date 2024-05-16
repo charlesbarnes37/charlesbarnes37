@@ -26,7 +26,7 @@
 <h2><br/><a href="https://www.linkedin.com/in/charlesbarnes/">Certifications:</h2>
 
   - <b>CompTIA Security+ (In Progress)</b>
-  - <b>Google Cybersecurity Professinal Certificate (In Progress)</b>
+  - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
   - <b>Google System Administration and IT Infrastructure</b>
   - <b>CompTIA ITF+</b>
   - <b>Getting Started in Packet Decoding</b>
