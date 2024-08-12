@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes/">Cybersecurity and Information Technology Professional, BSCIA Student at WGU</a>
+<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and Information Technology Professional, BSCIA Student at WGU</a>
 
 <h2>System Administration Projects:</h2>
 
