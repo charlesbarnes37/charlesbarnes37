@@ -2,6 +2,7 @@
  
 <h2>CYBERSECURITY:</h2>
 <h3>Projects:</h3>
+
 <h3>Tools:</h3>
 
 - <b>AppLocker Practice</b>
@@ -15,7 +16,12 @@
 - <b>Nessus</b>
 - <b>Zap</b>
 
-<h3>SQL/Databases:</h3>
+<h3>SQL (Structured Query Language):</h3>
+
+- <b>1</b>
+- <b>2</b>
+- <b>3</b>
+- <b>4</b>
 
 <h2>SYSTEM ADMINISTRATION:</h2>
 <h3>Projects:</h3>
