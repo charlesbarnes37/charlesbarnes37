@@ -26,7 +26,7 @@
 
 <h3>Linux:</h3>
 
-- <b/><a href="[https://github.com/charlesbarnes37/AddandManageUserswithLinuxCommands/blob/main/README.md)">Add and Manage Users with Linux Commands</a>
+- <b/><a href="https://github.com/charlesbarnes37/AddandManageUserswithLinuxCommands/blob/main">Add and Manage Users with Linux Commands</a>
 - <b>Managing System Services (Windows)</b>  
 - <b>Managing System Services (Linux)</b>
 - <b>DNS and DHCP</b>
