@@ -1,6 +1,7 @@
 <h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BSCIA Student at WGU</a>
  
 <h2>Cybersecurity Projects:</h2>
+<h3>Projects:</h3>
 <h3>Tools:</h3>
 
 - <b>AppLocker Practice</b>
@@ -14,7 +15,8 @@
 - <b>Nessus</b>
 - <b>Zap</b>
 
-<h2>System Administration Projects:</h2>
+<h2>System Administration:</h2>
+<h3>Projects:</h3>
 
 - <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
 - <b>Managing System Services (Windows)</b>  
@@ -22,7 +24,7 @@
 - <b>DNS and DHCP</b>
 - <b>Manage Websites with Apache2</b>
 
-<h2>Linux:</h2>
+<h3>Linux:</h3>
 
 - <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
 - <b>Managing System Services (Windows)</b>  
