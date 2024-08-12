@@ -1,14 +1,5 @@
-<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and Information Technology Professional, BSCIA Student at WGU</a>
-
-<h2>System Administration Projects:</h2>
-
-- <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
-- <b>Managing System Services (Windows)</b>  
-- <b>Managing System Services (Linux)</b>
-- <b>DNS and DHCP</b>
-- <b>Manage Websites with Apache2</b>
-
-  
+<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BSCIA Student at WGU</a>
+ 
 <h2>Cybersecurity Projects:</h2>
 <h3>Tools:</h3>
 
@@ -23,7 +14,23 @@
 - <b>Nessus</b>
 - <b>Zap</b>
 
-<h2><br/><a href="https://www.linkedin.com/in/charlesbarnes/">Certifications:</h2>
+<h2>System Administration Projects:</h2>
+
+- <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
+- <b>Managing System Services (Windows)</b>  
+- <b>Managing System Services (Linux)</b>
+- <b>DNS and DHCP</b>
+- <b>Manage Websites with Apache2</b>
+
+<h2>Linux:</h2>
+
+- <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
+- <b>Managing System Services (Windows)</b>  
+- <b>Managing System Services (Linux)</b>
+- <b>DNS and DHCP</b>
+- <b>Manage Websites with Apache2</b>
+
+<h2><br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Certifications:</h2>
 
   - <b>CompTIA Security+ (In Progress)</b>
   - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
