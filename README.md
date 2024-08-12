@@ -15,6 +15,8 @@
 - <b>Nessus</b>
 - <b>Zap</b>
 
+<h3>SQL/Databases:</h3>
+
 <h2>SYSTEM ADMINISTRATION:</h2>
 <h3>Projects:</h3>
 
