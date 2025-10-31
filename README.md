@@ -45,14 +45,16 @@
 <h3>Certifications:</h3>
 
   - <b>CompTIA Security+ (In Progress)</b>
+  - <b>CompTIA A+</b>
+  - <b>CompTIA ITF+</b>
   - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
   - <b>Google System Administration and IT Infrastructure</b>
-  - <b>CompTIA ITF+</b>
-  - <b>Getting Started in Packet Decoding</b>
-  - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
-  - <b>Project Management Professional (PMP) Bootcamp, Skillsoft</b>
+  - <b>Project Management Professional (PMP)</b>
 
   <h3>Training:</h3>
+  
+  - <b>Getting Started in Packet Decoding</b>
+  - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
   
 <h2>Connect with me:</h2>
 
