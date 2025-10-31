@@ -1,5 +1,21 @@
 <h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BSCIA Student at WGU</a>
- 
+
+ <h2><br/><a href="https://www.linkedin.com/in/charlesbarnes37/">EDUCATION | CERTIFICATIONS:</h2>
+
+<h3>Certifications:</h3>
+  - <b>Bachelor of Science (B.S.) Cloud and Network Engineering | Western Governors University | 2027 (In Progress)</b>
+  - <b>Security+ | CompTIA | (In Progress)</b>
+  - <b>CompTIA A+ | CompTIA</b>
+  - <b>ITF+ | CompTIA+</b>
+  - <b>Cybersecurity Professional Certificate (In Progress) | Google</b>
+  - <b>System Administration and IT Infrastructure | Google</b>
+  - <b>Project Management Professional (PMP) | Project Management Institute</b>
+
+  <h3>Training:</h3>
+  
+  - <b>Getting Started in Packet Decoding</b>
+  - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
+  
 <h2>CYBERSECURITY:</h2>
 <h3>Projects:</h3>
 
