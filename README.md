@@ -40,7 +40,9 @@
 - <b>DNS and DHCP</b>
 - <b>Manage Websites with Apache2</b>
 
-<h2><br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Certifications:</h2>
+<h2><br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Certifications & Training:</h2>
+
+<h3>Certifications:</h3>
 
   - <b>CompTIA Security+ (In Progress)</b>
   - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
@@ -49,6 +51,8 @@
   - <b>Getting Started in Packet Decoding</b>
   - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
   - <b>Project Management Professional (PMP) Bootcamp, Skillsoft</b>
+
+  <h3>Training:</h3>
   
 <h2>Connect with me:</h2>
 
