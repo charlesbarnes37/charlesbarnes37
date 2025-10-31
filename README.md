@@ -15,8 +15,8 @@
   - <b>Getting Started in Packet Decoding</b>
   - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
   
-<h2>CYBERSECURITY:</h2>
-<h3>Projects:</h3>
+<h2>PROJECTS</h2>
+<h3>CYBERSECURITY:</h3>
 
 <h3>Tools:</h3>
 
@@ -38,8 +38,7 @@
 - <b>3</b>
 - <b>4</b>
 
-<h2>SYSTEM ADMINISTRATION:</h2>
-<h3>Projects:</h3>
+<h3>SYSTEM ADMINISTRATION:</h3>
 
 - <b/><a href="https://github.com/charlesbarnes37/ActiveDirectoryLab/tree/main">Active Directory</a>
 - <b>Managing System Services (Windows)</b>  
@@ -54,22 +53,6 @@
 - <b>Managing System Services (Linux)</b>
 - <b>DNS and DHCP</b>
 - <b>Manage Websites with Apache2</b>
-
-<h2><br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Certifications & Training:</h2>
-
-<h3>Certifications:</h3>
-
-  - <b>CompTIA Security+ (In Progress)</b>
-  - <b>CompTIA A+</b>
-  - <b>CompTIA ITF+</b>
-  - <b>Google Cybersecurity Professional Certificate (In Progress)</b>
-  - <b>Google System Administration and IT Infrastructure</b>
-  - <b>Project Management Professional (PMP)</b>
-
-  <h3>Training:</h3>
-  
-  - <b>Getting Started in Packet Decoding</b>
-  - <b>Getting Started in Security with BHIS and MITRE ATT&CK</b>
   
 <h2>Connect with me:</h2>
 
