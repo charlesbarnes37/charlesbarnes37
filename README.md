@@ -1,8 +1,6 @@
-<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BSCIA Student at WGU</a>
+<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BS\CNE Student at WGU</a>
 
  <h2><br/><a></a>EDUCATION | CERTIFICATIONS:</h2>
-
-<h3>Certifications:</h3>
 
   - <b>Bachelor of Science (B.S.) Cloud and Network Engineering | Western Governors University | 2027 (In Progress)</b>
   - <b>Security+ | CompTIA | (In Progress)</b>
