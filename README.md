@@ -3,7 +3,7 @@
  <h2><br/><a></a>EDUCATION | CERTIFICATIONS:</h2>
 
   - <b>Bachelor of Science Cloud and Network Engineering | Western Governors University | 2027 (In Progress)</b>
-  - <b>Security+ | CompTIA | (In Progress)</b>
+  - <b>Security+ | CompTIA</b>
   - <b>CompTIA A+ | CompTIA</b>
   - <b>ITF+ | CompTIA+</b>
   - <b>Cybersecurity Professional Certificate (In Progress) | Google</b>
