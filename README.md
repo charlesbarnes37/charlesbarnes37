@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity and IT Professional, BS\CNE Student at WGU</a>
+<h1>Hi, I'm Charlie! <br/><a href="https://www.linkedin.com/in/charlesbarnes37/">Cybersecurity, Networking, IT Professional, BSCNE Student at WGU</a>
 
  <h2><br/><a></a>EDUCATION | CERTIFICATIONS:</h2>
 
