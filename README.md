@@ -3,6 +3,7 @@
  <h2><br/><a></a>EDUCATION | CERTIFICATIONS:</h2>
 
   - <b>Bachelor of Science Cloud and Network Engineering | Western Governors University | 2027 (In Progress)</b>
+  - <b>Cisco Certified Network Associate | Cisco Systems</b>
   - <b>Security+ | CompTIA</b>
   - <b>CompTIA A+ | CompTIA</b>
   - <b>ITF+ | CompTIA+</b>
