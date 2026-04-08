@@ -6,7 +6,6 @@
   - <b>Security+ | CompTIA</b>
   - <b>CompTIA A+ | CompTIA</b>
   - <b>ITF+ | CompTIA+</b>
-  - <b>Cybersecurity Professional Certificate (In Progress) | Google</b>
   - <b>System Administration and IT Infrastructure | Google</b>
   - <b>Project Management Professional (PMP) | Project Management Institute</b>
 
