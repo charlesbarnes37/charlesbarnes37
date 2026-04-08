@@ -20,7 +20,7 @@
 
 <h3>Tools:</h3>
 
-- <b>AppLocker Practice     |     Velociraptor</b>
+- <b>AppLocker Practice - Velociraptor</b>
 - <b>Password Spraying</b>       <b>Bluespawn</b>
 - <b>Zeek/RITA</b>               <b>Nmap</b>
 - <b>DeepBlueCLI</b>             <b>Nessus</b>
