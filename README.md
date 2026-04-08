@@ -20,11 +20,11 @@
 
 <h3>Tools:</h3>
 
-- <b>AppLocker Practice</b>
-- <b>Password Spraying</b>
-- <b>Zeek/RITA</b>
-- <b>DeepBlueCLI</b>
-- <b>Sysmon</b>
+- <b>AppLocker Practice</b>      <b>Velociraptor</b>
+- <b>Password Spraying</b>       <b>Bluespawn</b>
+- <b>Zeek/RITA</b>               <b>Nmap</b>
+- <b>DeepBlueCLI</b>             <b>Nessus</b>
+- <b>Sysmon</b>                  <b>Zap</b>
 - <b>Velociraptor</b>
 - <b>Bluespawn</b>
 - <b>Nmap</b>
